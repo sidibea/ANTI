@@ -1,0 +1,4 @@
+services:
+#    anti_web.example:
+#        class: ANTI\WebBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

@@ -1,0 +1,19 @@
+anti_web_homepage:
+    path:     /
+    defaults: { _controller: ANTIWebBundle:Web:index }
+
+anti_web_about:
+    path:     /about
+    defaults: { _controller: ANTIWebBundle:Web:about }
+
+anti_web_services:
+    path:     /services
+    defaults: { _controller: ANTIWebBundle:Web:services }
+
+anti_web_gallery:
+    path:     /gallery
+    defaults: { _controller: ANTIWebBundle:Web:gallery }
+
+anti_web_contact:
+    path:     /contact
+    defaults: { _controller: ANTIWebBundle:Web:contact }

@@ -1,0 +1,4 @@
+anti_web:
+    resource: "@ANTIWebBundle/Resources/config/routing.yml"
+    prefix:   /
+
